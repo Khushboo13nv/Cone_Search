@@ -1,2 +1,3 @@
-# Cone_Search
-Cone Search through SQL
+# ConeSearch
+This python script performs a cone search by taking user input and resolve the target coordinates, such as right ascension and declination, through SIMBAD. Upon authorization, it downloads both proprietary and non-proprietary files, which include raw science files with calibration data as well as processed files. It displays a summary of the retrieved proprietary and non-proprietary files; however, it downloads both sets of files only if authorization is granted; otherwise, it downloads only the non-proprietary files. It also prints any alerts or warnings encountered during the process that generates the calibration cascade.
+
