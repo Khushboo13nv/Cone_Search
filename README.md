@@ -16,4 +16,3 @@ When reporting, please include:
 - A description of the error
 - The exact error message and traceback (if available)
 - Your Python version and operating system
-- The steps to reproduce the issue
